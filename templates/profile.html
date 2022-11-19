@@ -1,0 +1,30 @@
+{% extends "index.html" %}
+
+{% block title %}
+Profile
+{% endblock %}
+
+{% block header_nav %}
+<nav class="nav-menu d-none d-lg-block">
+    <ul>
+        <li class="active"><a href="/profile">Home</a></li>
+        <li><a href="/preference">Preferences</a></li>
+        <li><a href="/destinations">Destinations</a></li>
+        <li><a href="/map">Map</a></li>
+    </ul>
+  </nav>
+{% endblock %}
+
+{% block content %}
+<section id="hero" class="d-flex align-items-center">
+  <div class="container position-relative text-center text-lg-left" data-aos="zoom-in" data-aos-delay="100">
+    <div class="row">
+      <div class="col-lg-8">
+        <h1>Welcome to <span>Tourist Recommendation,</span> {{name}}! </h1>
+        <h2>Thank you for registering, we are very happy to see you here! Please fill out the preferences form in the preference bar to get started!</h2>
+
+    </div>
+  </div>
+</section>
+
+{% endblock %}

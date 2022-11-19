@@ -1,0 +1,310 @@
+index,Tourist Spots,City,State,Label,Religious Sentiment,Bustle,Weather,Food Costs,Distance From Airport(KM)
+0,Ujjayanta Palace,Agartala,Tripura,Palace,n,n,All,980,10.3
+1,Agra Fort,Agra,Uttar Pradesh,Palace,n,n,All,"1,030",0
+2,Fatehpur Sikri,Agra,Uttar Pradesh,Heritage,n,n,All,"1,030",0
+3,Jahangiri Mahal,Agra,Uttar Pradesh,Palace,n,n,All,"1,030",0
+4,Historic City of Ahmedabad,Ahmedabad,Gujrat,Heritage,n,n,All,1045,0
+5,Farah Bagh Palace,Ahmednagar,Maharashtra,Palace,n,n,All,1000,113
+6,Ajanta Caves,Ajanta,Maharahtra,Heritage,n,n,All,1000,47.4
+7,Dargah Gharib Nawaz,Ajmer,Rajasthan,Spiritual,y,n,All,800,47.4
+8,Khwaja Moinuddin Chishti Dargah,Ajmer,Rajasthan,Spiritual,y,n,All,800,26.4
+9,Golden Temple,Amritsar,Punjab,Spiritual,y,n,All,800,26.4
+10,Amarnath Cave,Anantnag,Jammu & Kashmir,Caves,y,n,Winter,800,15.6
+11,Ellora Caves,Aurangabad,Maharshtra,Caves,n,n,All,800,0
+12,Naukhanda Palace,Aurangabad,Maharashtra,Palace,n,n,All,800,0
+13,Shree Badrinath Temple,Badrinath,Uttarakhand,Spiritual,y,n,Winter,800,0
+14,Group of Monuments at Pattadakal,Bagalkot,Karnataka,Heritage,n,n,All,950,1.3
+15,Bastar Palace,Bastar District,Chhattisgarh,Palace,n,n,All,800,10.8
+16,Keoladeo National Park,Bharatpur,Rajasthan,Heritage,n,y,All,950,54.8
+17,Udai Vilas Palace,Bharatpur,Rajasthan,Palace,n,n,All,950,54.8
+18,Rock Shelters of Bhimbetka,Bhimbetka,Madhya Pradesh,Heritage,n,n,All,900,560.3
+19,Junagarh Fort,Bikaner,Rajasthan,Palace,n,n,All,950,37.2
+20,Lalgarh Palace,Bikaner,Rajasthan,Palace,n,n,All,950,37.2
+21,Mahabodhi Temple Complex,Bodh Gaya,Bihar,Heritage,n,n,All,800,10.3
+22,Bolgatty Palace,"Bolgatty Island, Kochi",Kerala,Palace,n,y,All,850,0
+23,Hemkund Sahib,Chamoli,Uttarakhand,Spiritual,y,n,All,850,93.5
+24,The Architectural Work of Le Corbusier,Chandigarh,Chandigarh,Heritage,n,n,All,850,0
+25,Khajuraho Group of Monuments,Chhatarpur,Madhya Pradesh,Heritage,n,n,All,850,34.08
+26,Manas Wildlife Sanctuary,Chirang and Bakasa District,Assam,Wildlife,n,y,All,850,67.1
+27,Khangchendzonga National Park,Chungthang,Sikkim,Heritage,n,y,All,850,67
+28,Kunjaban Palace,Agartala,Tripura,Palace,n,n,All,850,10.3
+29,"Cooch Behar Palace
+(Victor Jubilee Palace)",Cooch Behar,West Bengal,Palace,n,y,All,850,0
+30,Meghna Cave Temple,Daporijo,Arunachal Pradesh,Spiritual,y,,All,850,0
+31,Great Chola Temple - Airavateshwarar Temple,Darasuram,Tamil Nadu,Heritage,n,n,All,900,98
+32,Anand Bagh Palace,Darbhanga,Bihar,Palace,n,n,All,800,0
+33,Nargona Palace,Darbhanga,Bihar,Palace,n,n,All,800,0
+34,Mountain railways of India - Darjeeling Himalayan Railways,Darjeeling,West Bengal,Heritage,n,n,All,850,95
+35,Daulatabad Fort,Daulatabad near Aurangabad,Maharashtra,Palace,n,n,All,850,0
+36,Humayun's Tomb,Delhi,Delhi,Heritage,n,n,All,1100,0
+37,Qutb Minar,Delhi,Delhi,Heritage,n,n,All,1100,0
+38,Karni Mata Temple,Deshnok,Rajasthan,Spiritual,y,n,All,1100,42.4
+39,Shree Dwarkadhish Temple,Dwarka,Gujrat,Spiritual,y,n,All,1100,95
+40,Ahom Rajaa'ss Palace,Gargaon near Sivasagar,Assam,Palace,n,n,All,1100,64.1
+41,Churches and Convents of Goa,Goa,Goa,Heritage,y,n,All,1100,0
+42,Gwalior Fort,Gwalior,Madhya Pradesh,Palace,n,n,All,1000,0
+43,Jai Vilas Palace,Gwalior,Madhya Pradesh,Palace,n,n,All,1000,0
+44,Har ki Pauri,Haridwar,Uttarakhand,Spiritual,y,n,All,1000,41.3
+45,Hazarduari Palace,"Hazarduari, Murshidabad",West Bengal,Palace,n,n,All,1000,86.9
+46,Chowmahalla Palace,Hyderabad,Telangana,Palace,n,n,All,1000,0
+47,Falaknuma Palace,Hyderabad,Telangana,Palace,n,n,All,1000,0
+48,Golconda Fort,Hyderabad,Telangana,Palace,n,y,All,1000,0
+49,King Kothi Palace,Hyderabad,Telangana,Palace,n,n,All,1000,0
+50,Kangla Palace,Imphal,Manipur,Palace,n,n,All,850,8.1
+51,Amber Palace (Amer Town),Jaipur,Rajasthan,Palace,n,n,All,800,0
+52,"City Palace
+(Chandra Mahal and Mubarak Mahal palaces)",Jaipur,Rajasthan,Palace,n,n,All,800,0
+53,Hawa Mahal,Jaipur,Rajasthan,Palace,n,n,All,800,0
+54,Jal Mahal (in Mansagar Lake),Jaipur,Rajasthan,Palace,n,n,All,800,0
+55,Rambagh Palace,Jaipur,Rajasthan,Palace,n,n,All,800,0
+56,The Jantar Mantar,Jaipur,Rajasthan,Heritage,n,n,All,800,0
+57,Jaisalmer Fort,Jaisalmer,Rajasthan,Palace,n,n,All,800,0
+58,Amar Mahal Palace,Jammu,Jammu & Kashmir,Palace,n,n,Winter,870,0
+59,Mubarak Mandi Palace,Jammu,Jammu & Kashmir,Palace,n,n,Winter,870,0
+60,Mehrangarh Fort,Jodhpur,Rajasthan,Palace,n,n,All,800,0
+61,Umaid Bhawan (Chittar Hill),Jodhpur,Rajasthan,Palace,n,n,All,800,0
+62,Kaziranga National Park,Kanchanjuri,Assam,Wildlife,n,y,All,930,59.6
+63,Kanker Palace,Kanker,Chhattisgarh,Palace,n,n,All,930,134
+64,Vaishno Devi Temple,Katra,Jammu & Kashmir,Spiritual,y,n,Winter,930,49.6
+65,Kawardha Palace,Kawardha,Chhattisgarh,Palace,n,n,All,930,106
+66,Kedarnath Temple,Kedarnath,Uttarakhand,Spiritual,y,n,All,930,51.5
+67,Shalini Palace,Kolhapur,Maharashtra,Palace,n,n,All,930,0
+68,Dakshineswar Kali Temple,Kolkata,West Bengal,Spiritual,y,n,All,930,0
+69,Marble Palace,Kolkata,West Bengal,Palace,n,n,All,930,0
+70,Sundarbans National Park,Kolkata,West Bengal,Wildlife,n,y,All,940,0
+71,Sun Temple,Konark,Odisha,Spiritual,y,n,All,900,61.8
+72,Great Himalaya National Park,Kullu,Himachal Pradesh,Heritage,n,n,All,900,0
+73,Neer Mahal(Water Palace),"Lake Rudrasagar, Melaghar",Tripura,Palace,n,n,All,900,24.4
+74,Meenakshi Amman Temple,Madurai,Tamil Nadu,Spiritual,y,n,All,900,0
+75,Thirumalai Nayakkar Palace,Madurai,Tamil Nadu,Palace,n,n,All,900,0
+76,Group of Monuments at Mahabalipuram,Mahabalipuram,Tamil Nadu,Heritage,n,n,All,900,58
+77,Sindhudurg Fort,"Malvan town, Sindhudurg District",Maharashtra,Palace,n,n,All,1000,0
+78,Solang Valley,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+79,Rohtang Pass,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+80,Old Manali,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+81,Jogini Water Fall,Manali,Himachal Pradesh,Water Fall,n,n,Winter,895,0
+82,Paragliding in Manali,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+83,Hidimba Temple,Manali,Himachal Pradesh,Spiritual,y,n,Winter,895,0
+84,Vashisht Baths,Manali,Himachal Pradesh,Spiritual,n,n,Winter,895,0
+85,Manu Temple,Manali,Himachal Pradesh,Spiritual,y,n,Winter,895,0
+86,Bhrigu Lake,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+87,Arjun Gufa,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+88,Kullu,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+89,Adventure Activities in Manali,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,$0
+90,Van Vihar,Manali,Himachal Pradesh,Wildlife,n,y,Winter,895,0
+91,Atal Tunnel,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+92,Skiing in Manali,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+93,Malana,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+94,Sethan Valley,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+95,Himalaya Nyingmapa Buddhist Temple,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+96,Kothi Village Manali,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+97,Museum of Himachal Culture & Folk Art,Manali,Himachal Pradesh,Heritage,n,n,Winter,895,0
+98,The Great Himalayan National Park,Manali,Himachal Pradesh,Wildlife,n,y,Winter,895,0
+99,Manikaran,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+100,Naggar,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+101,Gulaba,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+102,Rahala Falls,Manali,Himachal Pradesh,Water Fall,n,n,Winter,895,0
+103,Jana Water Fall,Manali,Himachal Pradesh,Water Fall,n,n,Winter,895,0
+104,Beas Kund Trek,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+105,Hampta Pass Trek,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+106,Manali Club House,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+107,Manali Sanctuary,Manali,Himachal Pradesh,Wildlife,n,y,Winter,895,0
+108,Jagatsukh,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+109,Nehru Kund,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+110,Chandrakhani Pass,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+111,Bara Bhangal Trek,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+112,Deo Tibba Trek,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+113,Gayatri Temple,Manali,Himachal Pradesh,Hill Station,y,n,Winter,895,0
+114,Bhunter,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+115,Gadhan Thekchhokling Gompa Monastery,Manali,Himachal Pradesh,Spiritual,n,n,Winter,895,0
+116,Siyali Mahadev Temple,Manali,Himachal Pradesh,Spiritual,y,n,Winter,895,0
+117,Keylong,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+118,Chandratal Baralacha Trek,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+119,Gauri Shankar Temple,Manali,Himachal Pradesh,Spiritual,y,n,Winter,895,0
+120,Rozy Water Falls,Manali,Himachal Pradesh,Water Fall,n,y,Winter,895,0
+121,Zorbing in Manali,Manali,Himachal Pradesh,Hill Station,n,y,Winter,895,0
+122,Winter Carnival Manali,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+123,Roerich Art Gallery and Estate,Manali,Himachal Pradesh,Heritage,n,n,Winter,895,0
+124,Sissu,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+125,Hampta Valley,Manali,Himachal Pradesh,Hill Station,n,n,Winter,895,0
+126,Shri Krishna Janmasthan Temple,Mathura,Uttar Pradesh,Spiritual,y,n,All,850,43.7
+127,Chattrapati Shivaji Terminus,Mumbai,Maharshtra,Heritage,n,n,All,1000,0
+128,Elephanta Caves,Mumbai,Maharshtra,Heritage,n,n,All,1000,0
+129,The Victorian and Art Deco Ensemble of Mumbai,Mumbai,Maharshtra,Heritage,n,n,All,1000,0
+130,Jagan Mohan Palace,Mysore,Karnataka,Palace,n,n,All,850,0
+131,"Mysore Palace
+(Amba Vilas Palace)",Mysore,Karnataka,Palace,n,n,All,850,0
+132,Archaeological Site of Nalanda Mahavihara,Nalanda,Bihar,Heritage,n,n,All,875,34
+133,Leh Palace,"Namgyal Hill, Leh",Jammu & Kashmir,Palace,n,n,All,930,2.5
+134,"Presidential Palace
+(Rashtrapati Bhavan)",New Delhi,New Delhi,Palace,n,n,All,1100,0
+135,Red Fort,New Delhi,New Delhi,Palace,n,n,All,1100,0
+136,Omkareshwar and Mamleshwar Temple,Omkareshwar,Madhya Pradesh,Spiritual,y,n,All,800,77
+137,Mountain railways of India - Nilgiri Mountain Railways,Ooty,Tamil Nadu,Heritage,n,n,All,900,56.7
+138,Padmanabhapuram Palace,"Padmanabhapuram,
+Kanyakumari District",Tamil Nadu,Palace,n,n,All,900,67
+139,Champaner-Pavagadh Archaeological Park,Panchamal,Gujrat,Heritage,n,n,All,1030,63
+140,"Brundaban Palace
+(Gajapati Palace)","Paralakhemundi,
+Gajapati District",Odisha,Palace,n,n,All,1030,114.2
+141,Rani ki Vav,Patan,Gujrat,Heritage,n,,All,1100,3
+142,Lal Mahal (Red Palace),Pune,Maharashtra,Palace,n,,All,1000,0
+143,Aga Khan Palace,Pune,Maharashtra,Palace,n,,All,1000,0
+144,Jagannath Temple,Puri,Odisha,Spiritual,y,,All,900,57.2
+145,Sun Temple,Puri District,Odisha,Heritage,n,,All,900,57.2
+146,Navlakha Palace,Rajnagar near Madhubani,Bihar,Palace,n,,All,980,0
+147,Rameshwaram Temple,Rameshwar,Tamil Nadu,Spiritual,y,,All,900,19.9
+148,Ranakpur Temple,Ranakpur,Rajasthan,Spiritual,y,,All,970,44
+149,Ranikhet,Ranikhet,Uttarakhand,Hill Station,n,,Summer,970,109.3
+150,Buddhist Monuments at Sanchi,Sanchi,Madhya Pradesh,Heritage,n,n,All,970,46.5
+151,Somnath Jyotirlinga,Saurashtra,Gujrat,Spiritual,y,,All,970,3
+152,Sai Temple,Shirdi,Maharashtra,Spiritual,y,,All,1000,130
+153,Great Chola Temple - Brihadeeswarar Temple,Thanjavur,Tamil Nadu,Heritage,n,,All,1080,9.9
+154,Shakthan Thampuran Palace,Thrissur,Kerala,Palace,n,,All,1080,51.4
+155,Tirumala Venkateswara Temple,Tirupati,Andhra Pradesh,Spiritual,y,,All,1080,0
+156,Kowdiar Palace,Trivandrum,Kerala,Palace,n,,All,1080,0
+157,Kumbhalgarh Fort,Udaipur,Rajasthan,Palace,n,,All,800,0
+158,Lake Palace (Lake Pichola),Udaipur,Rajasthan,Palace,n,,All,800,0
+159,"Monsoon Palace
+(Sajjan Garh Palace)",Udaipur,Rajasthan,Palace,n,,All,800,0
+160,Shiv Niwas Palace,Udaipur,Rajasthan,Palace,n,,All,800,0
+161,Nanda Devi and Valley of Flowers National Parks,Uttarakhand,Uttarakhand,Heritage,n,,All,960,0
+162,Laxmi Vilas Palace,Vadodara,Gujarat,Palace,n,,All,960,0
+163,Velankanni Church,Velankanni,Tamil Nadu,Spiritual,y,,All,960,124.8
+164,Group of Monuments at Hampi,Vijayanagara,Karnataka,Heritage,n,,All,960,31
+165,Maharaja Ranjit Singh Palace,"Wankaner, Rajkot",Gujarat,Palace,n,,All,980,0
+166,Thousand Pillar temple,Warangal,Telanagana,Spiritual,y,,All,1000,0
+167,Warangal Fort,Warangal,Telangana,Palace,n,,All,980,0
+168,Chitai Golu Devta Temple,Almora,Uttarakhand,Hill Station,n,n,Summer,1090,9
+169,Martola,Almora,Uttarakhand,Hill Station,n,n,Summer,890,10
+170,Deer Park,Almora,Uttarakhand,Hill Station,n,n,Summer,890,11
+171,Ananthagiri,Araku,Andhra Pradesh,Hill Station,n,y,Summer,890,20
+172,Chaparai,Araku,Andhra Pradesh,Water Fall,n,y,Monsoon,890,26
+173,Katiki,Araku,Andhra Pradesh,Water Fall,n,y,Monsoon,890,26
+174,Double Decker Living Root Bridge,Cherrapunjee,Meghalaya,Hill Station,n,y,Summer,890,25
+175,Nohkalikai,Cherrapunjee,Meghalaya,Water Fall,n,y,Monsoon,890,3
+176,Mawsmai Cave,Cherrapunjee,Meghalaya,Hill Station,n,y,Summer,950,7
+177,Sim's Park,Coonoor,Tamil Nadu,Park,n,y,Summer,950,1
+178,Dolphin's nose,Coonoor,Tamil Nadu,Hill Station,n,y,Summer,930,3
+179,Law's Fall,Coonoor,Tamil Nadu,Water Fall,n,y,Monsoon,930,5
+180,Abbey Falls,Coorg (Kodagu),Karnataka,Water Fall,n,y,Monsoon,950,1
+181,Dubare Elephant Camp,Coorg (Kodagu),Karnataka,Hill Station,n,y,Summer,950,5
+182,Harangi Dam,Coorg (Kodagu),Karnataka,Hill Station,n,y,Summer,980,36
+183,Satdhara Falls,Dalhousie,Himachal Pradesh,Water Fall,n,y,Monsoon,980,1
+184,Dainkund Peak,Dalhousie,Himachal Pradesh,Hill Station,n,y,Summer,980,5
+185,Subhash Baoli,Dalhousie,Himachal Pradesh,Heritage,y,n,Summer,980,5
+186,Tiger Hill,Darjeeling,West Bengal,Hill Station,n,y,Summer,1000,3
+187,Darjeeling Ropeway,Darjeeling,West Bengal,Hill Station,n,y,Summer,1000,5
+188,Nightingale Park,Darjeeling,West Bengal,Park,n,y,Summer,1000,2
+189,Nathula Pass,Gangtok,Sikkim,Hill Station,n,y,Summer,980,23
+190,Tsomgo Lake,Gangtok,Sikkim,Hill Station,n,y,Summer,980,16
+191,Rumtek Monastery,Gangtok,Sikkim,Heritage,y,n,Summer,980,7
+192,Khwaja Bande Nawaz Dargah,Gulberga,Karnataka,Spiritual,y,n,All,970,3
+193,Buddha Vihar,Gulberga,Karnataka,Spiritual,y,n,All,970,3
+194,Gulbarga Fort,Gulberga,Karnataka,Heritage,n,n,All,970,3
+195,Jang Dog Palriffo Brang Gompa,Kalimpong,West Bengal,Spiritual,y,n,All,970,3
+196,Monkey Point Kasauli,Kasauli,Himachal Pradesh,Hill Station,n,y,Summer,970,2
+197,Christ (Anglican) Church,Kasauli,Himachal Pradesh,Spiritual,y,n,Summer,970,1
+198,Hebbe Falls,Kemangundi,Karnataka,Water Fall,n,y,Summer,1030,3
+199,Tiger's Leap,Khandala,Maharashtra,Hill Station,n,y,Summer,1030,2
+200,Green Valley View,Kodiakanal,Tamil Nadu,Hill Station,n,y,All,1030,3
+201,Kullu valley,Kullu ,Himachal Pradesh,Hill Station,n,y,Summer,1030,5
+202,Darwan Singh Museum,Lansdowne,Uttarakhand,Heritage,n,n,All,1030,1
+203,Tip N Top,Lansdowne,Uttarakhand,Hill Station,n,n,All,960,3
+204,Tiger’s Leap,Lonawala,Maharashtra,Hill Station,n,,Winter,960,2
+205,Bhaja Caves,Lonawala,Maharashtra,Caves,n,,Winter,960,3
+206,Elephant's Head Point,Mahabaleshwar,Maharashtra,Hill Station,n,y,All,960,3
+207,Chinaman's Falls,Mahabaleshwar,Maharashtra,Water Fall,n,n,All,990,1
+208,Arthur's Seat,Mahabaleshwar,Maharashtra,Water Fall,n,n,All,990,1
+209,Nakki Lake,Mount Abu,Rajasthan,Hill Station,n,y,Summer,990,3
+210,Guru Shikhar,Mount Abu,Rajasthan,Hill Station,n,y,Summer,990,5
+211,Naini Lake,Nainital,Uttarakhand,Hill Station,n,y,Summer,990,2
+212,Tiffin Top,Nainital,Uttarakhand,Hill Station,n,y,Summer,980,6
+213,Ooty,Ooty,Tamil Nadu,Hill Station,n,y,Summer,980,0
+214,Chandanwari,Pahalgam,Jammu and Kashmir,Hill Station,n,y,Summer,980,2
+215,Aru Valley,Pahalgam,Jammu and Kashmir,Hill Station,n,y,Summer,980,11
+216,Lidder River,Pahalgam,Jammu and Kashmir,Hill Station,n,y,Summer,980,30
+217,Kaas Plateau,Panchgani,Maharashtra,Hill Station,n,n,Summer,980,23
+218,Table Land,Panchgani,Maharashtra,Hill Station,n,n,Summer,980,2
+219,Bee falls,Panchmarhi,Madhya Pradesh,Water Fall,n,y,Summer,900,3
+220,Jata Shankar caves,Panchmarhi,Madhya Pradesh,Caves,n,n,Summer,900,6
+221,Dhoopgarh,Panchmarhi,Madhya Pradesh,Hill Station,n,y,Summer,900,4
+222,Indira Gandhi Zoological Park,Visakhapatnam,Andhra Pradesh,Zoo,n,n,All,900,0
+223,Assam State Zoo cum Botanical Garden,Guwahati,Assam,Zoo,n,n,All,900,0
+224,Sanjay Gandhi Jaivik Udyan,Patna,Bihar,Zoo,n,n,All,910,0
+225,Kamla Nehru Zoological Garden,Ahmedabad,Gujarat,Zoo,n,n,All,950,0
+226,Sakkarbaug Zoological Garden,Junagadh,Gujarat,Zoo,n,n,All,950,100
+227,Gopalpur Zoo,Kangra,Himachal Pradesh,Zoo,n,n,All,950,0
+228,Rajiv Gandhi Zoological Park,Pune,Maharashtra,Zoo,n,n,All,950,0
+229,Maharajbagh Zoo,Nagpur,Maharashtra,Zoo,n,n,All,950,0
+230,ChattBir Zoo,Chatt,Punjab,Zoo,n,n,All,980,
+231,Nandankanan Zoological Park,Bhubaneswar,Odisha,Zoo,n,n,All,980,6.3
+232,National Zoological Park,New Delhi,New Delhi,Zoo,n,n,All,980,0
+233,Gulabh Bagh and Zoo,Udaipur,Rajasthan,Zoo,n,n,All,980,0
+234,Nehru Zoological Park,Hyderabad,Telangana,Zoo,n,n,All,980,0
+235,Lucknow Zoo,Lucknow,Uttar Pradesh,Zoo,n,n,All,980,0
+236,Allen Forest Zoo,Kanpur,Uttar Pradesh,Zoo,n,n,All,980,0
+237,"Pt. G.B. Pant High Altitude Zoo, Nainital",Nainital,Uttarakhand,Zoo,n,n,All,980,65
+238,Sri Chamarajendra Zoological Garden,Mysuru,Karnataka,Zoo,n,n,All,980,0
+239,Thiruvananthapuram Zoo,Thiruvananthapuram,Kerala,Zoo,n,n,All,1000,0
+240,Thrissur Zoo,Thrissur,Kerala,Zoo,n,n,All,1030,51.4
+241,Arignar Anna Zoological Park,Chennai,Tamil Nadu,Zoo,n,n,All,1060,0
+242,Alipore Zoological Gardens,Kolkata,West Bengal,Zoo,n,n,All,1030,0
+243,Padmaja Naidu Himalayan Zoological Park,Darjeeling,West Bengal,Zoo,n,n,All,1030,58
+244,Radhanagar,Havelock Island,Andaman & Nicobar,Beach,n,y,Summer,1030,0
+245,Anjuna,Goa,Goa,Beach,n,y,Summer,1060,0
+246,Arambol,Goa,Goa,Beach,n,y,Summer,1030,0
+247,Agonda Beach,Goa,Goa,Beach,n,y,Summer,980,0
+248,Baga,Goa,Goa,Beach,n,y,Summer,980,0
+249,Calangute,Goa,Goa,Beach,n,y,Summer,980,0
+250,Cavelossim,Goa,Goa,Beach,n,y,Summer,980,0
+251,Palolem,Goa,Goa,Beach,n,n,Summer,980,0
+252,Vagator,Goa,Goa,Beach,n,n,Summer,940,0
+253,Juhu,Mumbai,Maharashtra,Beach,n,n,Summer,940,0
+254,Gorai,Mumbai,Maharashtra,Beach,n,n,Summer,940,0
+255,Kashid,Pune,Maharashtra,Beach,n,n,Summer,1000,0
+256,Tarkarli,Sindhudurg,Maharashtra,Beach,n,n,Summer,1000,0
+257,Ganpatipule,Ganpatipule,Maharashtra,Beach,n,n,Summer,1000,335
+258,Kovalam,Thiruvananthapuram,Kerala,Beach,n,n,Summer,1000,0
+259,Varkala,Thiruvananthapuram,Kerala,Beach,n,n,Summer,940,0
+260,Marari,Alappuzha,Kerala,Beach,n,n,Summer,940,75
+261,Puri,Puri,Odisha,Beach,n,n,Summer,940,57.2
+262,Gahirmatha,Kendrapara,Odisha,Beach,n,n,Summer,940,89.2
+263,Marina,Chennai,Tamil Nadu,Beach,n,n,Summer,990,0
+264,Covelong,Chennai,Tamil Nadu,Beach,n,n,Summer,900,0
+265,Promenade Beach,Puducherry,Tamil Nadu,Beach,n,n,Summer,990,0
+266,Wide Beach,Mahabalipuram,Tamil Nadu,Beach,n,n,Summer,990,27
+267,Dhanushkodi Beach,Rameswaram,Tamil Nadu,Beach,n,n,Summer,990,19.9
+268,Rushikonda,Visakhapatnam,Andhra Pradesh,Beach,n,n,Summer,990,0
+269,Ramakrishna Beach,Visakhapatnam,Andhra Pradesh,Beach,n,n,Summer,990,0
+270,Kunchikal Falls,Nidagodu,Karnataka,Water Fall,n,y,Monsoon,990,68.4
+271,Sahastradhara Falls,Dehradun,Uttarakhand,Water Fall,n,y,Monsoon,990,0
+272,Elephant Falls,Shillong,Meghalaya,Water Fall,n,y,Monsoon,950,0
+273,Chuliya Falls,Chittorgarh District,Rajasthan,Water Fall,n,y,Monsoon,950,37.3
+274,Dhuandhar Falls,Jabalpur district,Madhya Pradesh,Water Fall,n,y,Monsoon,950,0
+275,Rajrappa,Ramgarh District,Jharkhand,Water Fall,n,y,Monsoon,950,76
+276,Hundru Falls,Ranchi District,Jharkhand,Water Fall,n,y,Monsoon,950,0
+277,Joranda Falls,Mayurbhanj District,Odisha,Water Fall,n,y,Monsoon,950,94.9
+278,Duduma Water Falls,Koraput District,Odisha,Water Fall,n,y,Monsoon,950,130
+279,Kapildhara Falls,Amarkantak District,Madhya Pradesh,Water Fall,n,y,Monsoon,950,89.3
+280,Yenna Falls,Mahabaleshwar,Maharashtra,Water Fall,n,y,Monsoon,950,120
+281,Dudhsagar Falls,Goa,Goa,Water Fall,n,y,Monsoon,1000,0
+282,Gokak Falls,Belagavi District,Karnataka,Water Fall,n,y,Monsoon,1000,0
+283,Mekedatu Falls,Bengaluru,Karnataka,Water Fall,n,y,Monsoon,1000,0
+284,Jog Falls,Sagara,Karnataka,Water Fall,n,y,Monsoon,1000,12.5
+285,Shivanasamudra Falls,Mandya District,Karnataka,Water Fall,n,y,Monsoon,1000,40.8
+286,Hogenakkal Falls,Dharmapuri,Tamil Nadu,Water Fall,n,y,Monsoon,1000,53.1
+287,Pykara Falls,Ooty,Tamil Nadu,Water Fall,n,y,Monsoon,1000,86.8
+288,Vattaparai Falls,Kanyakumari District,Tamil Nadu,Water Fall,n,y,Monsoon,940,2.1
+289,Soochipara Falls,Wayanad,Kerala,Water Fall,n,y,Monsoon,940,65
+290,Meenmutty Falls,Wayanad,Kerala,Water Fall,n,y,Monsoon,940,65
+291,Vazhachal Falls,Thrissur District,Kerala,Water Fall,n,y,Monsoon,940,51.4
+292,Athirappilly Falls,Thrissur District,Kerala,Water Fall,n,y,Monsoon,940,51.4
+293,Bhagsunag Water Fall,Dharamshala,Himachal Pradesh,Water Fall,n,y,Monsoon,940,13.1
+294,Nuranang Falls,Tawang district,Arunachal Pradesh,Water Fall,n,y,Monsoon,940,317
+295,Nohkalikai Falls,East Khasi Hills,Meghalaya,Water Fall,n,y,Monsoon,940,59.3
+296,Ethipothala Falls,Guntur district,Andhra Pradesh,Water Fall,n,y,Monsoon,940,52.7
+297,Kapila Theertham,Tirupati,Andhra Pradesh,Water Fall,n,y,Monsoon,980,0
+298,Talakona,Chittor,Andhra Pradesh,Water Fall,n,y,Monsoon,990,42.9
+299,Chitrakote Falls,Jagdalpur,Chhattisgarh,Water Fall,n,y,Monsoon,990,0
+300,Tiger Falls,Chakrata,Uttarakhand,Water Fall,n,y,Monsoon,960,113

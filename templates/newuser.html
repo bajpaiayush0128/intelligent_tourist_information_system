@@ -1,0 +1,40 @@
+{% extends "index.html" %}
+{% block title %}
+New User
+{% endblock %}
+
+{% block header_nav %}
+<nav class="nav-menu d-none d-lg-block">
+    <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/">About Us</a></li>
+    <li class="register text-center active"><a href="/register">Register Now</a></li>
+    </ul>
+</nav>
+{% endblock %}
+
+{% block content %}
+        <section id="register">
+            <form action="/register/newuser" method="POST">
+                <div class="login">
+                    <div class="login-screen">
+                        <div class="app-title">
+                            <h1>New User</h1>
+                        </div>
+                        <div class="login-form">
+                            <div class="control-group">
+                                <input type="text" class="login-field" value="" placeholder="Username" name="username">
+                            </div>
+                            <div class="control-group">
+                                <input type="password" class="login-field" value="" placeholder="Password" name="password">
+                            </div>
+                            <input type="submit" value="Create account" class="btn btn-primary btn-large btn-block">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </section>
+{% endblock %}
+
+
+

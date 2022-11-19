@@ -1,0 +1,67 @@
+{% extends "index.html" %}
+
+{% block title %}
+Dashboard
+{% endblock %}
+
+{% block stylesheet %}
+<!-- Mapbox -->
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/style.css') }}">
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+{% endblock %}
+
+{% block header_nav %}
+<nav class="nav-menu d-none d-lg-block">
+    <ul>
+        <li><a href="/profile">Home</a></li>
+        <li><a href="/preference">Preferences</a></li>
+        <li class="active"><a href="/destinations">Destinations</a></li>
+        <li><a href="/map">Map</a></li>
+    </ul>
+</nav>
+{% endblock %}
+
+{% block content %}
+<section>
+
+    <h2 class="title">{{ msg }}</h2>
+
+    {% for key, value in result.items() %}
+    <!-- http://www.wikidata.org/entity/ID where ID is an entity ID. -->
+    <div class="places">
+        <a href="#">{{ key }}</a>
+    </div>
+    {% endfor %}
+    
+    <div id='map' class='map-style'>
+        <script>
+        mapboxgl.accessToken = 'pk.eyJ1Ijoic2FzaHJpa2EiLCJhIjoiY2tvMzN0NHNjMG9xZjJ1cTlodTBxN2xzciJ9.TcN751iaLaz6f85CKL3aKA';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [ {{ lon }}, {{ lat }} ],
+            zoom: {{ zoom }}
+        });
+        </script>
+
+        <script>
+            var marker = new mapboxgl.Marker()
+                .setLngLat([ {{ lon }}, {{ lat }} ])
+                .setPopup(new mapboxgl.Popup().setHTML("<a style='color:black;'>This is your city, {{ city }}!</a>"))
+                .addTo(map);
+        </script>
+
+        {% for key, value in result.items() %}
+        <script>
+        var marker = new mapboxgl.Marker()
+            .setLngLat({{ value }})
+            .setPopup(new mapboxgl.Popup().setHTML("<a style='color:black;'>{{ key }}</a>"))
+            .addTo(map);
+        </script>
+        {% endfor %}
+    </div>
+
+</section>
+{% endblock %}
+
